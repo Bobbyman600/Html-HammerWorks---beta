@@ -1,0 +1,15 @@
+body  {
+    background-color: burlywood;
+    size: 100px;
+}
+p {
+font: menu;
+height: 100px;
+img {
+    image-rendering: pixelated;
+}
+
+
+body {
+    border: 3px solid orange;
+}
